@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(height: 8),
               Text('Email: thales@example.com', style: textTheme.bodyMedium),
               const SizedBox(height: 16),
-              Text('Flutter Deveoo Test', style: textTheme.bodyMedium),
+              Text('Flutter Intern Test', style: textTheme.bodyMedium),
             ],
           ),
         );
